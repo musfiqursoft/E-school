@@ -1,0 +1,91 @@
+.header {
+    background-color: #F0FFF0;
+    height: 576px;
+}
+
+.logo {
+    width: 198.07px;
+    height: 59px;
+    margin-top: 30px;
+}
+
+.link {
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
+    font-size: 17px;
+    color: black;
+    font-weight: bold;
+}
+
+.sing-in {
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    padding: 6px 16px;
+    font-size: 16px;
+}
+
+.sing-in:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.h {
+    color: #FD511A;
+    margin-top: 40px;
+}
+
+.learn {
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.any {
+    color: #21B573;
+}
+
+.lorem {
+    color: #6C6B6B;
+    margin-bottom: 40px;
+}
+
+.start {
+    font-size: 16px;
+    background-color: #21B573;
+    border-radius: 33px;
+    text-decoration: none;
+    color: white;
+    padding: 8px 28px;
+}
+
+.start:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.ready {
+    margin-top: 100px;
+}
+
+.topic {
+    background-color: #F8FFFB;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.center {
+    width: 66px;
+    height: 85px;
+}
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    border: 1px solid black;
+}
